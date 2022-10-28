@@ -1,0 +1,11 @@
+Package: schelpr
+Title: Augmented quality control and helper functions for Seurat based single cell analysis in R
+Version: 0.0.1
+Authors@R: 
+    person("Alex", "Thiery", , "alexthiery1@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-5900-7894"))
+Description: Augmented quality control and helper functions for Seurat based single cell analysis in R.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
