@@ -17,8 +17,6 @@ jobs:
         docker-file: ["Dockerfile"]
         module-name: ["base", "dependencies"]
 
-
-jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Set version and tags
