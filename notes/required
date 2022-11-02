@@ -1,7 +1,0 @@
-
-# required for development
-roxygen2
-usethis
-devtools
-
-# required for package
