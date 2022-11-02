@@ -28,3 +28,4 @@ RUN apt-get install -y --no-install-recommends \
         libgsl-dev \
         libgeos-dev \
         libglpk-dev
+        
