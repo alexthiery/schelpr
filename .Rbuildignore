@@ -1,2 +1,4 @@
 ^notes$
 ^LICENSE\.md$
+^\.github$
+^containers$
