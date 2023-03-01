@@ -50,7 +50,10 @@ use_test('myfunc')
 
 # to then run all the tests run:
 devtools::test()
+
+
 #  or even
+# before running this run - devtools::install("../schelpr")
 devtools::check()
 
 
